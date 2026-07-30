@@ -6,6 +6,14 @@ sites:
   - name: HostData
     url: https://hostdata.id
     icon: https://hostdata.id/wp-content/uploads/2018/11/plan-2-1.png
+  - name: NAT VPS ID2
+    url: https://id2.natvps.id
+  - name: NAT VPS ID3
+    url: https://id3.natvps.id
+  - name: NAT VPS ID4
+    url: https://id4.natvps.id
+  - name: NAT VPS ID5
+    url: https://id5.natvps.id
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
