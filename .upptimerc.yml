@@ -8,34 +8,44 @@ sites:
     icon: https://hostdata.id/wp-content/uploads/2018/11/plan-2-1.png
   - name: NAT VPS ID2
     url: https://id2.natvps.id
-    check_type: ping
+    check_type: tcp
+    port: 4085
   - name: NAT VPS ID3
     url: https://id3.natvps.id
-    check_type: ping
+    check_type: tcp
+    port: 4085
   - name: NAT VPS ID4
     url: https://id4.natvps.id
-    check_type: ping
+    check_type: tcp
+    port: 4085
   - name: NAT VPS ID5
     url: https://id5.natvps.id
-    check_type: ping
+    check_type: tcp
+    port: 4085
   - name: NAT VPS SG1
     url: https://sg1.natvps.id
-    check_type: ping
+    check_type: tcp
+    port: 4085
   - name: NAT VPS SG2
     url: https://sg2.natvps.id
-    check_type: ping
+    check_type: tcp
+    port: 4085
   - name: NAT VPS SG3
     url: https://sg3.natvps.id
-    check_type: ping
+    check_type: tcp
+    port: 4085
   - name: NAT VPS EU4
     url: https://eu4.natvps.id
-    check_type: ping
+    check_type: tcp
+    port: 4085
   - name: NAT VPS US2
     url: https://us2.natvps.id
-    check_type: ping
+    check_type: tcp
+    port: 4085
   - name: NAT VPS ID
     url: https://id.natvps.id
-    check_type: ping
+    check_type: tcp
+    port: 4085
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
