@@ -15,6 +15,6 @@ status-website:
   introMessage: Status page ini menampilkan uptime [HostData.id](https://hostdata.id) secara real-time.
   navbar:
     - title: Status
-      href: /
+      href: /uptime-monitor
     - title: HostData
       href: https://hostdata.id
