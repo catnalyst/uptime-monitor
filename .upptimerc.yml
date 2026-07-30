@@ -6,61 +6,15 @@ sites:
   - name: HostData
     url: https://hostdata.id
     icon: https://hostdata.id/wp-content/uploads/2018/11/plan-2-1.png
-  - name: NAT VPS ID2
-    url: https://id2.natvps.id
-    check_type: tcp
-    port: 4085
-  - name: NAT VPS ID3
-    url: https://id3.natvps.id
-    check_type: tcp
-    port: 4085
-  - name: NAT VPS ID4
-    url: https://id4.natvps.id
-    check_type: tcp
-    port: 4085
-  - name: NAT VPS ID5
-    url: https://id5.natvps.id
-    check_type: tcp
-    port: 4085
-  - name: NAT VPS SG1
-    url: https://sg1.natvps.id
-    check_type: tcp
-    port: 4085
-  - name: NAT VPS SG2
-    url: https://sg2.natvps.id
-    check_type: tcp
-    port: 4085
-  - name: NAT VPS SG3
-    url: https://sg3.natvps.id
-    check_type: tcp
-    port: 4085
-  - name: NAT VPS EU4
-    url: https://eu4.natvps.id
-    check_type: tcp
-    port: 4085
-  - name: NAT VPS US2
-    url: https://us2.natvps.id
-    check_type: tcp
-    port: 4085
-  - name: NAT VPS ID
-    url: https://id.natvps.id
-    check_type: tcp
-    port: 4085
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
 
 status-website:
   baseUrl: /uptime-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Upptime** — Uptime monitor untuk HostData.id"
+  introMessage: Status page ini menampilkan uptime [HostData.id](https://hostdata.id) secara real-time.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: HostData
+      href: https://hostdata.id
