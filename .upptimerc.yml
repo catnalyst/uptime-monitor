@@ -14,6 +14,18 @@ sites:
     url: https://id4.natvps.id
   - name: NAT VPS ID5
     url: https://id5.natvps.id
+  - name: NAT VPS SG1
+    url: https://sg1.natvps.id
+  - name: NAT VPS SG2
+    url: https://sg2.natvps.id
+  - name: NAT VPS SG3
+    url: https://sg3.natvps.id
+  - name: NAT VPS EU4
+    url: https://eu4.natvps.id
+  - name: NAT VPS US2
+    url: https://us2.natvps.id
+  - name: NAT VPS ID
+    url: https://id.natvps.id
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
